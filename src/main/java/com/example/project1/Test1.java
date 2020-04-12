@@ -10,6 +10,6 @@ public class Test1 {
 
     @Test
     public void testCase2() {
-        System.out.println("你好啊111");
+        System.out.println("你好啊111adf");
     }
 }
